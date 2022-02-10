@@ -1,0 +1,1179 @@
+[
+    {
+        "id": 326,
+        "title": "Побег из Шоушенка",
+        "titleEn": "The Shawshank Redemption",
+        "year": "1994",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            }
+        ],
+        "rating": "9.2"
+    },
+    {
+        "id": 435,
+        "title": "Зеленая миля",
+        "titleEn": "The Green Mile",
+        "year": "1999",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "фэнтези"
+            },
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "криминал"
+            }
+        ],
+        "rating": "9.1"
+    },
+    {
+        "id": 448,
+        "title": "Форрест Гамп",
+        "titleEn": "Forrest Gump",
+        "year": "1994",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "мелодрама"
+            },
+            {
+                "genre": "комедия"
+            }
+        ],
+        "rating": "9.0"
+    },
+    {
+        "id": 329,
+        "title": "Список Шиндлера",
+        "titleEn": "Schindler's List",
+        "year": "1993",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "биография"
+            },
+            {
+                "genre": "история"
+            }
+        ],
+        "rating": "8.9"
+    },
+    {
+        "id": 535341,
+        "title": "1+1",
+        "titleEn": "Intouchables",
+        "year": "2011",
+        "countries": [
+            {
+                "country": "Франция"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "биография"
+            }
+        ],
+        "rating": "8.8"
+    },
+    {
+        "id": 447301,
+        "title": "Начало",
+        "titleEn": "Inception",
+        "year": "2010",
+        "countries": [
+            {
+                "country": "США"
+            },
+            {
+                "country": "Великобритания"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "фантастика"
+            },
+            {
+                "genre": "боевик"
+            },
+            {
+                "genre": "триллер"
+            }
+        ],
+        "rating": "8.8"
+    },
+    {
+        "id": 389,
+        "title": "Леон",
+        "titleEn": "Léon",
+        "year": "1994",
+        "countries": [
+            {
+                "country": "Франция"
+            },
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "боевик"
+            },
+            {
+                "genre": "триллер"
+            },
+            {
+                "genre": "драма"
+            }
+        ],
+        "rating": "8.8"
+    },
+    {
+        "id": 2360,
+        "title": "Король Лев",
+        "titleEn": "The Lion King",
+        "year": "1994",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "мультфильм"
+            },
+            {
+                "genre": "мюзикл"
+            },
+            {
+                "genre": "драма"
+            }
+        ],
+        "rating": "8.8"
+    },
+    {
+        "id": 361,
+        "title": "Бойцовский клуб",
+        "titleEn": "Fight Club",
+        "year": "1999",
+        "countries": [
+            {
+                "country": "Германия"
+            },
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "триллер"
+            },
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "криминал"
+            }
+        ],
+        "rating": "8.7"
+    },
+    {
+        "id": 42664,
+        "title": "Иван Васильевич меняет профессию",
+        "titleEn": null,
+        "year": "1973",
+        "countries": [
+            {
+                "country": "СССР"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "фантастика"
+            },
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "приключения"
+            }
+        ],
+        "rating": "8.7"
+    },
+    {
+        "id": 381,
+        "title": "Жизнь прекрасна",
+        "titleEn": "La vita è bella",
+        "year": "1997",
+        "countries": [
+            {
+                "country": "Италия"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "военный"
+            },
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "драма"
+            }
+        ],
+        "rating": "8.7"
+    },
+    {
+        "id": 32898,
+        "title": "Достучаться до небес",
+        "titleEn": "Knockin' on Heaven's Door",
+        "year": "1997",
+        "countries": [
+            {
+                "country": "Германия"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "криминал"
+            }
+        ],
+        "rating": "8.6"
+    },
+    {
+        "id": 325,
+        "title": "Крестный отец",
+        "titleEn": "The Godfather",
+        "year": "1972",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "криминал"
+            }
+        ],
+        "rating": "8.6"
+    },
+    {
+        "id": 342,
+        "title": "Криминальное чтиво",
+        "titleEn": "Pulp Fiction",
+        "year": "1994",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "триллер"
+            },
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "криминал"
+            }
+        ],
+        "rating": "8.6"
+    },
+    {
+        "id": 42782,
+        "title": "Операция «Ы» и другие приключения Шурика",
+        "titleEn": null,
+        "year": "1965",
+        "countries": [
+            {
+                "country": "СССР"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "мелодрама"
+            },
+            {
+                "genre": "криминал"
+            }
+        ],
+        "rating": "8.6"
+    },
+    {
+        "id": 530,
+        "title": "Игры разума",
+        "titleEn": "A Beautiful Mind",
+        "year": "2001",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "биография"
+            },
+            {
+                "genre": "мелодрама"
+            }
+        ],
+        "rating": "8.6"
+    },
+    {
+        "id": 195334,
+        "title": "Престиж",
+        "titleEn": "The Prestige",
+        "year": "2006",
+        "countries": [
+            {
+                "country": "Великобритания"
+            },
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "фантастика"
+            },
+            {
+                "genre": "триллер"
+            },
+            {
+                "genre": "драма"
+            }
+        ],
+        "rating": "8.6"
+    },
+    {
+        "id": 258687,
+        "title": "Интерстеллар",
+        "titleEn": "Interstellar",
+        "year": "2014",
+        "countries": [
+            {
+                "country": "США"
+            },
+            {
+                "country": "Великобритания"
+            },
+            {
+                "country": "Канада"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "фантастика"
+            },
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "приключения"
+            }
+        ],
+        "rating": "8.6"
+    },
+    {
+        "id": 3498,
+        "title": "Властелин колец: Возвращение Короля",
+        "titleEn": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "countries": [
+            {
+                "country": "Новая Зеландия"
+            },
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "фэнтези"
+            },
+            {
+                "genre": "приключения"
+            },
+            {
+                "genre": "драма"
+            }
+        ],
+        "rating": "8.6"
+    },
+    {
+        "id": 474,
+        "title": "Гладиатор",
+        "titleEn": "Gladiator",
+        "year": "2000",
+        "countries": [
+            {
+                "country": "США"
+            },
+            {
+                "country": "Великобритания"
+            },
+            {
+                "country": "Мальта"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "боевик"
+            },
+            {
+                "genre": "история"
+            },
+            {
+                "genre": "драма"
+            }
+        ],
+        "rating": "8.6"
+    },
+    {
+        "id": 476,
+        "title": "Назад в будущее",
+        "titleEn": "Back to the Future",
+        "year": "1985",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "фантастика"
+            },
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "приключения"
+            }
+        ],
+        "rating": "8.6"
+    },
+    {
+        "id": 522,
+        "title": "Карты, деньги, два ствола",
+        "titleEn": "Lock, Stock and Two Smoking Barrels",
+        "year": "1998",
+        "countries": [
+            {
+                "country": "Великобритания"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "боевик"
+            },
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "криминал"
+            }
+        ],
+        "rating": "8.6"
+    },
+    {
+        "id": 301,
+        "title": "Матрица",
+        "titleEn": "The Matrix",
+        "year": "1999",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "фантастика"
+            },
+            {
+                "genre": "боевик"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 46225,
+        "title": "Бриллиантовая рука",
+        "titleEn": null,
+        "year": "1968",
+        "countries": [
+            {
+                "country": "СССР"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "приключения"
+            },
+            {
+                "genre": "криминал"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 81314,
+        "title": "Отступники",
+        "titleEn": "The Departed",
+        "year": "2006",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "триллер"
+            },
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "криминал"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 324,
+        "title": "Поймай меня, если сможешь",
+        "titleEn": "Catch Me If You Can",
+        "year": "2002",
+        "countries": [
+            {
+                "country": "США"
+            },
+            {
+                "country": "Канада"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "криминал"
+            },
+            {
+                "genre": "биография"
+            },
+            {
+                "genre": "комедия"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 328,
+        "title": "Властелин колец: Братство кольца",
+        "titleEn": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "countries": [
+            {
+                "country": "США"
+            },
+            {
+                "country": "Новая Зеландия"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "фэнтези"
+            },
+            {
+                "genre": "приключения"
+            },
+            {
+                "genre": "драма"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 355,
+        "title": "Пианист",
+        "titleEn": "The Pianist",
+        "year": "2002",
+        "countries": [
+            {
+                "country": "Польша"
+            },
+            {
+                "country": "Франция"
+            },
+            {
+                "country": "Великобритания"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "военный"
+            },
+            {
+                "genre": "биография"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 25108,
+        "title": "В бой идут одни «старики»",
+        "titleEn": null,
+        "year": "1973",
+        "countries": [
+            {
+                "country": "СССР"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "военный"
+            },
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "комедия"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 679486,
+        "title": "Тайна Коко",
+        "titleEn": "Coco",
+        "year": "2017",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "мультфильм"
+            },
+            {
+                "genre": "фэнтези"
+            },
+            {
+                "genre": "детектив"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 279102,
+        "title": "ВАЛЛ·И",
+        "titleEn": "WALL·E",
+        "year": "2008",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "мультфильм"
+            },
+            {
+                "genre": "фантастика"
+            },
+            {
+                "genre": "приключения"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 526,
+        "title": "Большой куш",
+        "titleEn": "Snatch",
+        "year": "2000",
+        "countries": [
+            {
+                "country": "Великобритания"
+            },
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "криминал"
+            },
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "боевик"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 312,
+        "title": "Властелин колец: Две крепости",
+        "titleEn": "The Lord of the Rings: The Two Towers",
+        "year": "2002",
+        "countries": [
+            {
+                "country": "Новая Зеландия"
+            },
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "фэнтези"
+            },
+            {
+                "genre": "приключения"
+            },
+            {
+                "genre": "драма"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 44386,
+        "title": "Джентльмены удачи",
+        "titleEn": null,
+        "year": "1971",
+        "countries": [
+            {
+                "country": "СССР"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "криминал"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 382,
+        "title": "Американская история X",
+        "titleEn": "American History X",
+        "year": "1998",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 397667,
+        "title": "Остров проклятых",
+        "titleEn": "Shutter Island",
+        "year": "2009",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "триллер"
+            },
+            {
+                "genre": "детектив"
+            },
+            {
+                "genre": "драма"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 4374,
+        "title": "Пираты Карибского моря: Проклятие Черной жемчужины",
+        "titleEn": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": "2003",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "фэнтези"
+            },
+            {
+                "genre": "боевик"
+            },
+            {
+                "genre": "приключения"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 111543,
+        "title": "Темный рыцарь",
+        "titleEn": "The Dark Knight",
+        "year": "2008",
+        "countries": [
+            {
+                "country": "США"
+            },
+            {
+                "country": "Великобритания"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "фантастика"
+            },
+            {
+                "genre": "боевик"
+            },
+            {
+                "genre": "триллер"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 2213,
+        "title": "Титаник",
+        "titleEn": "Titanic",
+        "year": "1997",
+        "countries": [
+            {
+                "country": "США"
+            },
+            {
+                "country": "Мексика"
+            },
+            {
+                "country": "Австралия"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "мелодрама"
+            },
+            {
+                "genre": "история"
+            },
+            {
+                "genre": "триллер"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 336,
+        "title": "Пролетая над гнездом кукушки",
+        "titleEn": "One Flew Over the Cuckoo's Nest",
+        "year": "1975",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            }
+        ],
+        "rating": "8.5"
+    },
+    {
+        "id": 346,
+        "title": "12 разгневанных мужчин",
+        "titleEn": "12 Angry Men",
+        "year": "1956",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "детектив"
+            },
+            {
+                "genre": "криминал"
+            }
+        ],
+        "rating": "8.4"
+    },
+    {
+        "id": 4871,
+        "title": "Запах женщины",
+        "titleEn": "Scent of a Woman",
+        "year": "1992",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            }
+        ],
+        "rating": "8.4"
+    },
+    {
+        "id": 356,
+        "title": "В джазе только девушки",
+        "titleEn": "Some Like It Hot",
+        "year": "1959",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "мелодрама"
+            },
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "криминал"
+            }
+        ],
+        "rating": "8.4"
+    },
+    {
+        "id": 957887,
+        "title": "Клаус",
+        "titleEn": "Klaus",
+        "year": "2019",
+        "countries": [
+            {
+                "country": "Испания"
+            },
+            {
+                "country": "Великобритания"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "мультфильм"
+            },
+            {
+                "genre": "семейный"
+            },
+            {
+                "genre": "комедия"
+            }
+        ],
+        "rating": "8.4"
+    },
+    {
+        "id": 2950,
+        "title": "Пробуждение",
+        "titleEn": "Awakenings",
+        "year": "1990",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "биография"
+            }
+        ],
+        "rating": "8.4"
+    },
+    {
+        "id": 387556,
+        "title": "Хатико: Самый верный друг",
+        "titleEn": "Hachi: A Dog's Tale",
+        "year": "2008",
+        "countries": [
+            {
+                "country": "Великобритания"
+            },
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "семейный"
+            },
+            {
+                "genre": "биография"
+            }
+        ],
+        "rating": "8.4"
+    },
+    {
+        "id": 370,
+        "title": "Унесённые призраками",
+        "titleEn": "Sen to Chihiro no kamikakushi",
+        "year": "2001",
+        "countries": [
+            {
+                "country": "Япония"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "аниме"
+            },
+            {
+                "genre": "мультфильм"
+            },
+            {
+                "genre": "фэнтези"
+            }
+        ],
+        "rating": "8.4"
+    },
+    {
+        "id": 414,
+        "title": "Огни большого города",
+        "titleEn": "City Lights",
+        "year": "1931",
+        "countries": [
+            {
+                "country": "США"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "мелодрама"
+            },
+            {
+                "genre": "драма"
+            }
+        ],
+        "rating": "8.4"
+    },
+    {
+        "id": 43395,
+        "title": "...А зори здесь тихие",
+        "titleEn": null,
+        "year": "1972",
+        "countries": [
+            {
+                "country": "СССР"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "драма"
+            },
+            {
+                "genre": "военный"
+            },
+            {
+                "genre": "история"
+            }
+        ],
+        "rating": "8.4"
+    },
+    {
+        "id": 44745,
+        "title": "Кавказская пленница, или Новые приключения Шурика",
+        "titleEn": null,
+        "year": "1966",
+        "countries": [
+            {
+                "country": "СССР"
+            }
+        ],
+        "genres": [
+            {
+                "genre": "комедия"
+            },
+            {
+                "genre": "приключения"
+            },
+            {
+                "genre": "мелодрама"
+            }
+        ],
+        "rating": "8.4"
+    }
+]

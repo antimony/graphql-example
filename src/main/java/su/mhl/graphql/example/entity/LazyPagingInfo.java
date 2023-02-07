@@ -1,9 +1,9 @@
 package su.mhl.graphql.example.entity;
 
+import io.leangen.graphql.annotations.GraphQLQuery;
+
 import java.util.Objects;
 import java.util.function.IntSupplier;
-
-import io.leangen.graphql.annotations.GraphQLQuery;
 
 /**
  * @author Mikhail Surin (msurin)
@@ -17,6 +17,7 @@ public final class LazyPagingInfo {
     private final IntSupplier totalFunc;
 
     /**
+     *
      */
     public LazyPagingInfo(int limit, int offset, IntSupplier totalFunc) {
         this.limit = limit;
@@ -29,10 +30,12 @@ public final class LazyPagingInfo {
         return totalFunc.getAsInt();
     }
 
+    @GraphQLQuery
     public int limit() {
         return limit;
     }
 
+    @GraphQLQuery
     public int offset() {
         return offset;
     }
@@ -47,8 +50,8 @@ public final class LazyPagingInfo {
         if (obj == null || obj.getClass() != this.getClass()) return false;
         var that = (LazyPagingInfo) obj;
         return this.limit == that.limit &&
-               this.offset == that.offset &&
-               Objects.equals(this.totalFunc, that.totalFunc);
+                this.offset == that.offset &&
+                Objects.equals(this.totalFunc, that.totalFunc);
     }
 
     @Override
@@ -59,9 +62,9 @@ public final class LazyPagingInfo {
     @Override
     public String toString() {
         return "LazyPagingInfo[" +
-               "limit=" + limit + ", " +
-               "offset=" + offset + ", " +
-               "totalFunc=" + totalFunc + ']';
+                "limit=" + limit + ", " +
+                "offset=" + offset + ", " +
+                "totalFunc=" + totalFunc + ']';
     }
 
 }

@@ -27,7 +27,7 @@ dependencies {
     implementation("io.leangen.graphql:graphql-spqr-spring-boot-starter:0.0.7")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     testImplementation("io.projectreactor:reactor-test")
-    testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.0")
+    testImplementation("org.junit.jupiter:junit-jupiter-api")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine")
 }
 tasks.withType<Copy>() {
